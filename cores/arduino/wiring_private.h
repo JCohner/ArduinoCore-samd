@@ -27,7 +27,7 @@ extern "C" {
 #endif
 
 // Includes Atmel CMSIS
-#include <samd.h>
+#include <samd21.h>
 
 int pinPeripheral( uint32_t ulPin, EPioType ulPeripheral );
 

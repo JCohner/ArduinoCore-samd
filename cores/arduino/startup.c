@@ -16,7 +16,7 @@
   Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 */
 
-#include <samd.h>
+#include <samd21.h>
 #include "variant.h"
 
 #include <stdio.h>
